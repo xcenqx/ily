@@ -6,6 +6,7 @@ body{
     align-items: center;
     justify-content: center;
     background-color: #0b1522;
+    color: white;
 }
 .heart{
     height: 70px;
